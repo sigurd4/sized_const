@@ -1,0 +1,11 @@
+[package]
+name = "sized_const"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Adds a const trait for any sized type, containing a SIZE constant and easier unsafe transmutation"
+repository = "https://github.com/sigurd4/sized_const"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
